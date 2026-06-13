@@ -31,7 +31,7 @@ The goal of this project is to:
 CodeAlpha_WebServer_Docker/
 │
 ├── screenshots/
-│   └── output.png
+│   └── page.png
 │
 ├── Dockerfile
 ├── README.md
