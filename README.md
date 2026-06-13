@@ -30,11 +30,12 @@ The goal of this project is to:
 ```text
 CodeAlpha_WebServer_Docker/
 │
-├── Dockerfile
-├── index.html
-├── README.md
+├── screenshots/
+│   └── output.png
 │
-└── screenshots/
+├── Dockerfile
+├── README.md
+└── index.html
 ```
 
 ---
